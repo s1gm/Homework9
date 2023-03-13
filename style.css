@@ -1,0 +1,16 @@
+div{
+    width: 400px; 
+    height: 200px;
+    box-shadow: 0px 20px 20px 0px rgba(200, 90, 7, 0.9), 
+    0px 30px 30px 0px green, 0px 40px 40px 0px blueviolet, 
+    0px 50px 50px 0px blue, 0px 60px 60px 0px red, 
+    0px 70px 70px 0px yellow ; 
+    
+}
+
+body{
+    display: flex;
+    justify-content: center;
+     /* align-items: center;  */
+    height: 100vh;
+}
